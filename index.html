@@ -1,16 +1,23 @@
---- 
-layout: default 
---- 
+---
+layout: default
+---
 
-<h3>About</h3>
+<div class="home">
 
-<p>Frequently looking at packets, more often than not looking for them instead. Former postgrad, researcher, gaijin, <strike>cynic</strike>.
+  <h1 class="page-heading">Posts</h1>
 
-<h3>Random thought experiments</h3>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-{% for post in site.posts %}      
-    <li>
-    <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-{% endfor %}
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

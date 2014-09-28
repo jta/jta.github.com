@@ -1,0 +1,83 @@
+- year: 2014
+  publications:
+    - title: Rekindling Network Protocol Innovation with User-Level Stacks
+      authors: Michio Honda, Felipe Huici, Costin Raiciu, João Taveira Araújo and Luigi Rizzo
+      venue: ACM SIGCOMM Computer Communication Review (CCR)
+      link: ccr.pdf
+
+    - title: A longitudinal analysis of Internet rate limitations
+      authors: João Taveira Araújo, Raul Landa, Richard G. Clegg, Kensuke Fukuda and George Pavlou
+      link: infocom.pdf
+      venue: IEEE International Conference on Computer Communications (INFOCOM)
+
+    - title: Software-defined network support for transport resilience
+      authors: João Taveira Araújo, Raul Landa, Richard G. Clegg and George Pavlou
+      link: noms.pdf
+      venue: IEEE/IFIP Network Operations and Management Symposium (NOMS)
+
+- year: 2013
+  publications:
+   - title: "Traffic Re-engineering: Extending resource pooling through the application of re-feedback"
+     authors: João Taveira Araújo
+     link: thesis.pdf
+     venue: Ph.D. thesis
+
+   - title: Measuring the Relationships between Internet Geography and RTT
+     authors: Raul Landa, Richard G. Clegg, João Taveira Araújo, Eleni Mykoniati, David Griffin and Miguel Rio
+     link: icccn.pdf
+     venue: IEEE International Conference on Computer Communications and Networks (ICCCN)
+
+   - title: On the relationship between fundamental measurements in TCP flows
+     authors: Richard G. Clegg, João Taveira Araújo, Raul Landa, Eleni Mykoniati, David Griffin and Miguel Rio
+     link: TCPmeasurement.pdf
+     venue: IEEE International Conference on Communications (ICC)
+
+   - title: The Large-scale Geography of Internet Round Trip Times
+     authors: Raul Landa, Richard G. Clegg, João Taveira Araújo, Eleni Mykoniati, David Griffin and Miguel Rio
+     link: DNSmeasurement.pdf
+     venue: IFIP Networking
+
+- year: 2011
+  publications:
+  - title: "MALAWI: Aggregated longitudinal analysis of the MAWI dataset"
+    authors: João Taveira Araújo and Kensuke Fukuda
+    link: conext.pdf
+    venue: ACM CoNEXT Student Workshop
+
+  - title: "Balancing by PREFLEX: Congestion Aware Traffic Engineering"
+    authors: João Taveira Araújo, Richard G Clegg, Imad Grandi, Miguel Rio and George Pavlou
+    link: networking.pdf
+    venue: IFIP Networking
+
+  - title: Explicit Congestion Control Algorithms for Variable Capacity Media
+    authors: Filipe Abrantes, João Taveira Araújo and Manuel Ricardo
+    link: exp-cc-trans.pdf
+    venue: IEEE Transactions on Mobile Computing
+
+
+- year: 2010
+  publications:
+  - title: A Mutualistic Resource Pooling Architecture
+    authors: João Taveira Araújo, Miguel Rio and George Pavlou
+    link: rearch.pdf
+    venue: "3rd International Workshop on Re-Architecting the Internet (ReArch'10)"
+
+- year: 2009
+  publications:
+  - title: Congestion balancing using re-ECN
+    authors: João Taveira Araújo, Miguel Rio and George Pavlou
+    link: trilogy.pdf
+    venue: Trilogy Summer School
+
+  - title: Towards Cost-Aware Multipath Routing
+    authors: João Taveira Araújo, George Pavlou and Miguel Rio
+    link: aims.pdf
+    venue: 3rd Conference on Autonomous Infrastructure, Management and Security (AIMS)
+
+- year: 2008
+  publications:
+  - title: Flash Crowd Effect in RCP
+    authors: Filipe Abrantes, João Taveira Araújo and Manuel Ricardo
+    link: rcpflashcrowd.pdf
+    venue: 6th Workshop on Fast Long-Distance Networks (PFLDnet)
+
