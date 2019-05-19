@@ -4,7 +4,7 @@ email: joao@fastly.com
 description: > # this means to ignore newlines until "baseurl:"
   Parsing packets @ fastly.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jta.github.io" # the base hostname & protocol for your site
+url: "https://jta.github.io" # the base hostname & protocol for your site
 twitter_username: jta
 github_username:  jta
 
